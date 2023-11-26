@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"org.example.onlinestoreservice","c":"PoolConnectionBuilder","l":"getConnection()"},{"p":"org.example.onlinestoreservice","c":"PoolConnectionBuilder","l":"PoolConnectionBuilder()","u":"%3Cinit%3E()"}];updateSearchResults();
